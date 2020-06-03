@@ -7,3 +7,4 @@ testing
 foo1
 race
 race2
+race3
